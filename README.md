@@ -6,7 +6,7 @@
 <h3>Language used</h3>
 <ul><li>Assembly Language</li></ul>
 
-<h3>Environment</h3>
+<h3>Development Environment</h3>
 <ul><li>Tasm</li></ul>
 
 <h3>Prerequisites</h3>
@@ -19,7 +19,15 @@
  <li>Two input variables can be taken separately </li>
  <li>Accurate result</li>
  </ul>
-
+<h3>How to use</h3>
+<ul>
+ <li>Run using tasm commands</li>
+ <li>Input the first value</li>
+ <li>click on the operator</li>
+ <li>Input the second value</li>
+ <li>Click on '=' to get the result</li>
+ <li>Click on 'AC' to clear the screen</li>
+ </ul>
 <h3>Screenshots</h3>
 <img src="http://i.imgur.com/uUZ9mQs.png" width="800" height="600">
 <h3>Limitations</h3>
