@@ -3,6 +3,9 @@
 <h3>Description</h3>
 <p>This project implements a simple calculator which can do binary operations with 8 bit variables</p>
 
+<h3>Course</h3>
+<ul><li>CSE-2212: Microprocessor and Assembly Languages Lab</li></ul>
+
 <h3>Language used</h3>
 <ul><li>Assembly Language</li></ul>
 
